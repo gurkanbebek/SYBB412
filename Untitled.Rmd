@@ -1,0 +1,27 @@
+---
+title: "Untitled"
+author: "Gurkan Bebek"
+date: "2/15/2017"
+output: html_document
+---
+
+setwd()
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 5
+
+
+## apply()
+
+
+## lapply()
+
+
+## sapply()
+
+
+## mapply()
+
+
